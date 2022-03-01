@@ -1,0 +1,20 @@
+Wichtig:
+    ☐ @critical Vor dem Plattmachen des alten Mods die Akkumulator-Sicherungen retten
+
+Weitere Aufgaben:
+    ☐ Open Tabs durchgehen, links, zum Scoping von Ordnern
+    ☐ Build-Automation mit GitHub Actions:
+        https://github.com/marketplace/actions/github-action-for-factorio-mod-release
+        ☐ Solve login problem
+            https://forums.factorio.com/viewtopic.php?t=27382
+    ☐ Editor-Config hinzufügen
+    ☐ Merge mit Eltako Template
+
+Offene Fragen:
+    ☐ Items für alle in der Startup.lua? Soll da noch was rein? @frage
+    ☐ Spidertrons, Legs und Remote mit ins Landing mit aufnehmen? @frage
+    ☐ wind energy multiplicator setting.value=5 in settings-updates?
+
+Ingame Infos:
+    ☐ 7371 + 810 = 8180 @ingame-info
+    ☐ /c game.player.insert{name="nullius-large-buffer-chest-1", count=10000}

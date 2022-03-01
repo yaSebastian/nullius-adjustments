@@ -1,2 +1,5 @@
-# nullius-adjustments
-Some random adjustments to the Nullius mod for a private server.
+# Nullius Adjustments
+
+## Introduction
+
+This mod makes some adjustments to the original 'Nullius' mod, allowing for a faster playthrough with increased UPS.
